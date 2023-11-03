@@ -1,0 +1,43 @@
+.flex{
+    display:flex; 
+    list-style-type:none; 
+    gap:20px; 
+    
+    
+  }
+  a{
+    color:white;
+    
+  }
+  .container{
+    background-color:#caf716;
+    padding:10px; 
+    padding-bottom:10px;
+    border-radius:10px;
+    
+  } 
+  .center{
+    height:1000px;
+    width:1450px;
+  }
+  .back{
+    text-align:center;
+    padding-top:100px;
+    
+  }
+  body{
+    background-color:#ebc034;
+    font-family: 'Edu TAS Beginner', cursive; 
+  } 
+  .display{
+    display:flex; 
+    height:200px;
+    gap:100px;
+    width:100px;
+    
+  }
+  
+  #ye{
+    padding-top:250px;
+    padding-right:px;
+  }
