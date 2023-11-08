@@ -1,55 +1,59 @@
-body{
-    background-color:black; 
-  }
-  html{
-    color:white;
-    font-family: 'Playfair Display', serif;
-  } 
-  h1{
-    text-align:center;
-   
-  } 
-  .list{
-    list-style-type:none;
-    display:flex;
-    gap:20px;
-    padding-left:730px;
-  } 
-  a{
-    color:white; 
-    
-  }
-  h3{
-    text-align:center;
-  }
+li{
+  list-style-type:none;
   
-  .lorem{
-    margin-top:190px;
-    padding-right:100px;
-    padding-left:100px;
-    display:flex;
-  }
-  .arian{
-    height:250px;
-    padding-left:100px;
-    padding-top:150px;
-    float:left;
-    display:flex;
+}
+ul{
+  display:flex;
+  gap:20px;
+  padding-left:px;
+  padding-top:10px;
+
+
     
-  }
-  .flex{
-    display:flex;
-  } 
-  .projects{
-    padding-top:310px;
-  }
-  .div{
-    height:100px;
-    display:flex;
-    padding-left:310px;
-    float:bottom;
-  }
-  .divp{
-    ;
-    
-  }
+  
+} 
+body{
+  margin:0;
+  padding:0;
+}
+header{
+  background-color:black;
+  width:100%;
+}
+a{
+  color:white;
+}
+h1{
+  text-align:center;
+  padding-top:90px;
+  
+}
+.arian{
+  height:250px;
+  float:left;
+  padding-left:320px;
+  padding-top:100px;
+  
+}
+
+#line{
+  width:100px;
+  height:1px;
+  background-color:black;
+}
+footer{
+  text-align:center;
+  background-color:black;
+  color:white;
+}
+#image{
+  display:flex;
+  align-items:center;
+  
+}
+ #navbar {
+     position: fixed;
+     top: 0;
+     width: 100%;
+     /* Additional styling */
+   } 
