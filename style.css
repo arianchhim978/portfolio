@@ -8,9 +8,11 @@ ul{
 } *{
   margin:0;
   padding:0;
+  font-family: 'Kanit', sans-serif;
+
 }
 header{
-  background-color: rgb(17, 17, 17);
+  background-color:  #19747E;
   padding-top:20px;
   padding-bottom: 20px;
 }
@@ -18,6 +20,27 @@ a{
   text-decoration: none;
   color:rgb(251, 255, 254);
 } 
+h1{
+  text-align: center;
+  padding-top:100px;
+}#arian{
+  padding-top:100px;
+  margin-right:100px;
+}
+.arian{
+  height:300px;
+  
+  
+
+}#back{
+  background-color: #A9D6E5;
+  height: 500px;
+  
+}
+#hi{
+  background-color:#D1E8E2;
+  height:300px;
+}
 @media  (max-width:600px){
   a{
     font-size:30px;
@@ -45,4 +68,8 @@ a{
     visibility: hidden; 
 
   }
+}
+#hi2{
+  background-color:#D1E8E2;
+  
 }
